@@ -1,0 +1,25 @@
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+.venv/
+venv/
+
+temp/
+predictions/
+data/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+*.csv
+*.log
+.DS_Store
+requirements.txt
+
