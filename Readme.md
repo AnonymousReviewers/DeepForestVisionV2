@@ -1,4 +1,4 @@
-# DeepForestVision v2
+# DeepForestVisionV2
 
 DeepForestVisionV2 is an AI model designed to identify wildlife on camera trap videos and photographs from African tropical forests.
 
